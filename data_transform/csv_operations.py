@@ -2,6 +2,7 @@
 import csv
 import random
 
+# jakas zmiana
 
 def embarked_label(embarked):
     """
